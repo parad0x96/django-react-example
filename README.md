@@ -1,1 +1,1 @@
-# django-react-example
+# django-react
